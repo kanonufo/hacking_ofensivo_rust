@@ -11,6 +11,7 @@
 
 ## 📜 Descripción
 
+Este proyecto es nuevo y personal aunno contiene scriots ni contenido , este proyecto lo ire actualizando mediante mi entrenamiento personal en el lenguaje de rust , a medida que vaya aprendiendo algo nuevo lo hore plasmando aqui , intentando crear herramientas ofensivas en rust , no soy un experto , tampoco soy un profesional en ciberseguridad , tampoco poseeo certificacion alguna sobre temas relacionados sobre hacking , solo soy un autodidacta y apasionado por el hacking y el desarrollo de malware.
 Este proyecto es una plataforma de entrenamiento en **hacking ofensivo** utilizando el lenguaje de programación Rust. Explora cómo Rust, conocido por su seguridad y eficiencia, puede ser utilizado en el contexto del hacking ético para desarrollar herramientas y técnicas de explotación.
 
 ---
